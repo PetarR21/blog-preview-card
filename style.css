@@ -96,10 +96,6 @@ img {
   line-height: 1.5;
 }
 
-.wrapper .attribution {
-  margin-top: 20px;
-}
-
 @media (max-width: 768px) {
   .card {
     max-width: 328px;
