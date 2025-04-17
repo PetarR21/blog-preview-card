@@ -12,10 +12,6 @@ img {
   width: 100%;
 }
 
-a {
-  text-decoration: none;
-}
-
 .wrapper {
   min-height: 100vh;
   background-color: hsl(47, 88%, 63%);
@@ -62,14 +58,14 @@ a {
   font-weight: 500;
 }
 
-.card .main-content .foundations {
+.card .main-content h1 {
   font-size: 24px;
   color: #111;
   font-weight: 800;
   line-height: 1.5;
 }
 
-.card .main-content .foundations:hover {
+.card .main-content h1:hover {
   cursor: pointer;
   color: hsl(47, 88%, 63%);
 }
